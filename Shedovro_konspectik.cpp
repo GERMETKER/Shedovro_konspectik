@@ -44,6 +44,31 @@ int main()
     Поведенчесие паттерны ()
 
 
+
+
+Архитектурные паттерны
+    Монолитная архитектура
+        UI / API
+        Viewer / Представление
+        ontroller / Управление
+        Model / DomainLogic
+        DAL / Уровень доступа к данным
+    MVP
+        Presenter
+        Viewer
+        Model
+    MVC
+        Viever - Controller
+           |        |
+           Controller
+    MVVM
+        Viewer
+        Viev-model
+        Model
+    
+
+
+
     
 
 
